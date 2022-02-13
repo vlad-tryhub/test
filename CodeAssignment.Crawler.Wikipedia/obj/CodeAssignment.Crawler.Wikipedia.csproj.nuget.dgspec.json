@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Wikipedia\\CodeAssignment.Crawler.Wikipedia.csproj": {}
+  },
+  "projects": {
+    "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Abstractions\\CodeAssignment.Crawler.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Abstractions\\CodeAssignment.Crawler.Abstractions.csproj",
+        "projectName": "CodeAssignment.Crawler.Abstractions",
+        "projectPath": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Abstractions\\CodeAssignment.Crawler.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\VERSUM\\.nuget\\packages\\",
+        "outputPath": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VERSUM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\vx\\nugets": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.a5-labs-cloud.com/repository/dev.artifactory-nuget.afr/": {},
+          "https://pkgs.dev.azure.com/ieso-health/_packaging/ieso/nuget/v3/index.json": {},
+          "https://www.myget.org/F/ieso-core/auth/f32d95a3-5cb9-4b7c-8599-f32e0fa60512/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Wikipedia\\CodeAssignment.Crawler.Wikipedia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Wikipedia\\CodeAssignment.Crawler.Wikipedia.csproj",
+        "projectName": "CodeAssignment.Crawler.Wikipedia",
+        "projectPath": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Wikipedia\\CodeAssignment.Crawler.Wikipedia.csproj",
+        "packagesPath": "C:\\Users\\VERSUM\\.nuget\\packages\\",
+        "outputPath": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Wikipedia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VERSUM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\vx\\nugets": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.a5-labs-cloud.com/repository/dev.artifactory-nuget.afr/": {},
+          "https://pkgs.dev.azure.com/ieso-health/_packaging/ieso/nuget/v3/index.json": {},
+          "https://www.myget.org/F/ieso-core/auth/f32d95a3-5cb9-4b7c-8599-f32e0fa60512/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Abstractions\\CodeAssignment.Crawler.Abstractions.csproj": {
+                "projectPath": "C:\\crypto\\CodeAssignment\\CodeAssignment.Crawler.Abstractions\\CodeAssignment.Crawler.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[1.0.0-alpha-844, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

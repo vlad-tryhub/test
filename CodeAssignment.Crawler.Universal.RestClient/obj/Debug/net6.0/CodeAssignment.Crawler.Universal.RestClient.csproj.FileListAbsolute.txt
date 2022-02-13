@@ -1,0 +1,12 @@
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\bin\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.deps.json
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\bin\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\bin\Debug\net6.0\ref\CodeAssignment.Crawler.Universal.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\bin\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.pdb
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.csproj.AssemblyReference.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.AssemblyInfoInputs.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.AssemblyInfo.cs
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.csproj.CoreCompileInputs.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\ref\CodeAssignment.Crawler.Universal.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Universal.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Universal.RestClient.pdb

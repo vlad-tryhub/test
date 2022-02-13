@@ -1,0 +1,57 @@
+version: '3.9'
+
+services:
+
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+
+  # web interface for mongo
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 5000:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: root
+      ME_CONFIG_MONGODB_URL: mongodb://root:root@mongo:27017/
+    depends_on:
+      - mongo
+
+  orchestrator:
+    restart: always
+    build: 
+      context: .
+      dockerfile: CodeAssignment.Orchestrator/Dockerfile
+    environment:
+      Logging__Console__FormatterName: Simple
+    ports:
+      - 5001:80
+    depends_on:
+      - mongo
+      - crawler-universal
+      - crawler-wikipedia
+
+  crawler-universal:
+    restart: always
+    build: 
+      context: .
+      dockerfile: CodeAssignment.Crawler.Universal/Dockerfile
+    environment:
+      Logging__Console__FormatterName: Simple
+    ports:
+      - 5002:80
+
+  crawler-wikipedia:
+    restart: always
+    build: 
+      context: .
+      dockerfile: CodeAssignment.Crawler.Wikipedia/Dockerfile
+    environment:
+      Logging__Console__FormatterName: Simple
+    ports:
+      - 5003:80

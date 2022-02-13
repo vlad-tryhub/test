@@ -1,0 +1,12 @@
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\bin\Debug\net6.0\CodeAssignment.Crawler.Abstractions.deps.json
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\bin\Debug\net6.0\CodeAssignment.Crawler.Abstractions.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\bin\Debug\net6.0\ref\CodeAssignment.Crawler.Abstractions.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\bin\Debug\net6.0\CodeAssignment.Crawler.Abstractions.pdb
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.csproj.AssemblyReference.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.AssemblyInfoInputs.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.AssemblyInfo.cs
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.csproj.CoreCompileInputs.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\ref\CodeAssignment.Crawler.Abstractions.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Abstractions\obj\Debug\net6.0\CodeAssignment.Crawler.Abstractions.pdb

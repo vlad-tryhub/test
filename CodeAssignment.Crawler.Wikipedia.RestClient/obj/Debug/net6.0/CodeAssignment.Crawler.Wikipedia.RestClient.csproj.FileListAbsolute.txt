@@ -1,0 +1,12 @@
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\bin\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.deps.json
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\bin\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\bin\Debug\net6.0\ref\CodeAssignment.Crawler.Wikipedia.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\bin\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.pdb
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.csproj.AssemblyReference.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.AssemblyInfoInputs.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.AssemblyInfo.cs
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.csproj.CoreCompileInputs.cache
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\ref\CodeAssignment.Crawler.Wikipedia.RestClient.dll
+C:\crypto\CodeAssignment\CodeAssignment.Crawler.Wikipedia.RestClient\obj\Debug\net6.0\CodeAssignment.Crawler.Wikipedia.RestClient.pdb
